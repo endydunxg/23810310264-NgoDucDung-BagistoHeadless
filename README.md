@@ -33,15 +33,15 @@ Dự án thực hiện chuyển đổi nền tảng thương mại điện tử 
 
 ## 3. Hình ảnh minh chứng (Screenshots)
 
-### 📸 Minh chứng 1: Quản trị sản phẩm trong Admin Bagisto
+###  Ảnh 1: Quản trị sản phẩm trong Admin Bagisto
 Hiển thị danh sách 03 sản phẩm đã được tạo thành công với tên sinh viên.
 ![Danh sách sản phẩm](img/1.png)
 
-### 📸 Minh chứng 2: Truy vấn dữ liệu qua GraphiQL Playground
+###  Ảnh 2: Truy vấn dữ liệu qua GraphiQL Playground
 Thực hiện Query thành công dữ liệu JSON và xác thực danh tính qua Console log.
 ![Truy vấn API](img/2.png)
 
-### 📸 Minh chứng 3: Giao diện Frontend hiển thị sản phẩm
+###  Ảnh 3: Giao diện Frontend hiển thị sản phẩm
 Trang web độc lập kết nối API và hiển thị sản phẩm lên giao diện người dùng.
 ![Giao diện Frontend](img/3.png)
 
@@ -49,3 +49,6 @@ Trang web độc lập kết nối API và hiển thị sản phẩm lên giao d
 
 ## 4. Kết luận
 Hệ thống đã hoạt động đúng theo yêu cầu của bài thực hành. Toàn bộ dữ liệu sản phẩm được quản lý tập trung tại Backend Bagisto và được phân phối an toàn qua GraphQL API đến ứng dụng Frontend.
+
+### Video minh chứng thao tác thực tế
+[Xem Video Minh Chứng](./video/video.mp4)
